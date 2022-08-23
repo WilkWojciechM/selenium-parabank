@@ -1,0 +1,2 @@
+public class RequestLoanTests {
+}
